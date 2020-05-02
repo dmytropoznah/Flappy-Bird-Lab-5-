@@ -1,0 +1,11 @@
+E:\Univer\C# labs\flappy-bird\flappy-bird\bin\Debug\netcoreapp3.1\flappy-bird.exe
+E:\Univer\C# labs\flappy-bird\flappy-bird\bin\Debug\netcoreapp3.1\flappy-bird.deps.json
+E:\Univer\C# labs\flappy-bird\flappy-bird\bin\Debug\netcoreapp3.1\flappy-bird.runtimeconfig.json
+E:\Univer\C# labs\flappy-bird\flappy-bird\bin\Debug\netcoreapp3.1\flappy-bird.runtimeconfig.dev.json
+E:\Univer\C# labs\flappy-bird\flappy-bird\bin\Debug\netcoreapp3.1\flappy-bird.dll
+E:\Univer\C# labs\flappy-bird\flappy-bird\bin\Debug\netcoreapp3.1\flappy-bird.pdb
+E:\Univer\C# labs\flappy-bird\flappy-bird\obj\Debug\netcoreapp3.1\flappy-bird.csprojAssemblyReference.cache
+E:\Univer\C# labs\flappy-bird\flappy-bird\obj\Debug\netcoreapp3.1\flappy-bird.AssemblyInfoInputs.cache
+E:\Univer\C# labs\flappy-bird\flappy-bird\obj\Debug\netcoreapp3.1\flappy-bird.AssemblyInfo.cs
+E:\Univer\C# labs\flappy-bird\flappy-bird\obj\Debug\netcoreapp3.1\flappy-bird.dll
+E:\Univer\C# labs\flappy-bird\flappy-bird\obj\Debug\netcoreapp3.1\flappy-bird.pdb
